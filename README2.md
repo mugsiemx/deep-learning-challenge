@@ -1,8 +1,6 @@
 # deep-learning-challenge
 Module 21 Challenge Due Wed May 24, 2023
 
-   ![](https://github.com/mugsiemx/deep-learning-challenge/blob/main/Images/business-startup.jpg)
-
 ## Background
 
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
@@ -14,12 +12,8 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 ## References
 Module 21 challenge files
 - https://static.bc-edx.com/data/dl-1-2/m21/lms/starter/Starter_Code.zip
-<<<<<<< HEAD
 IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/Links to an 
 external site.
 
 start up photo by Khunkorn Laowisit
 - <a href="https://www.vecteezy.com/free-photos">Free Stock photos by Vecteezy</a>
-=======
-IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/Links to an external site.
->>>>>>> 373f735efe5d73ee34365110da171cd7f3b51511
