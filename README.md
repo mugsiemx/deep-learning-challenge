@@ -46,3 +46,8 @@ IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/Lin
 - https://gist.github.com/wdsrocha/1dfe7501e20d37225491257bd54c768d
 plot loss history
 - https://pyimagesearch.com/2021/06/30/how-to-use-the-modelcheckpoint-callback-with-keras-and-tensorflow/
+
+Data provided by Carnegie Mellon University via the Statlib library. Embedded Gist by author, Josh Johnson
+-https://towardsdatascience.com/keras-callbacks-and-how-to-save-your-model-from-overtraining-244fc1de8608
+
+-https://stackoverflow.com/questions/51186330/save-model-weights-at-the-end-of-every-n-epochs
